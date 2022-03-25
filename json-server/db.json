@@ -1,0 +1,34 @@
+{
+  "coffee": [
+    {
+      "name": "Espresso",
+      "price": "80.000 VND",
+      "id": 3
+    },
+    {
+      "name": "Machiato",
+      "price": "80.000 VND",
+      "id": 4
+    },
+    {
+      "name": "Mocha",
+      "price": "80.000 VND",
+      "id": 7
+    },
+    {
+      "name": "Flat White",
+      "price": "75.000 VND",
+      "id": 8
+    },
+    {
+      "name": "Latte",
+      "price": "80.000",
+      "id": 9
+    },
+    {
+      "name": "Latte Machiato",
+      "price": "90.000",
+      "id": 10
+    }
+  ]
+}
